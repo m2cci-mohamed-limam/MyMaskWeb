@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MyMaskWeb">
+<Resource auth="Container" driverClassName="org.sqlite.JDBC" maxIdle="3" maxTotal="10" maxWaitMillis="10000" 
+            name="jdbc/MyMask" type="javax.sql.DataSource" 
+            url="jdbc:sqlite:C:\Users\limem\Desktop\MyMask\bd\bd.sqlite3"/>
+</Context>
+      
